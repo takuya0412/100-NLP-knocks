@@ -1,6 +1,5 @@
 import json
 
-
 def read_file(title):
     decoder = json.JSONDecoder()
     res = {}
